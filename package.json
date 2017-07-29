@@ -1,11 +1,11 @@
 {
   "name": "flow-tap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run tap on files with flow types.",
   "bin": "cli.js",
   "files": [
     "cli.js"
-  ],  
+  ],
   "scripts": {
     "test": "./cli.js test.js"
   },
@@ -17,9 +17,9 @@
     "flow",
     "tap"
   ],
-  "author": { 
-    "name" : "Jonathan New", 
-    "url" : "http://blog.jonnew.com"
+  "author": {
+    "name": "Jonathan New",
+    "url": "http://blog.jonnew.com"
   },
   "license": "MIT",
   "dependencies": {
