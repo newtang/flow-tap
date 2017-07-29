@@ -21,7 +21,7 @@
     "name" : "Jonathan New", 
     "url" : "http://blog.jonnew.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "flow-remove-types": ">=1.2.1",
     "tap": ">=2.1.0"
