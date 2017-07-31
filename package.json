@@ -1,6 +1,6 @@
 {
   "name": "flow-tap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Run tap on files with flow types.",
   "bin": "cli.js",
   "files": [
