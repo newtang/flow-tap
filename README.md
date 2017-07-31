@@ -31,4 +31,4 @@ tap.equal(numToString(3), "3");
 
 Use both tap and flow the way you usually do. If your tests don't use static types, but your modules do, I suggest using `//@flow` at the top of your test anyways. This will catch any improper usage of your modules and obviate the need to test unexpected arguments. **NOTE**: This won't check types, only remove them so tests work as expected. Continue using flow to check your types.
 
-I wrote a [blog post about the creation of flow-tap](http://blog.jonnew.com/posts/flow-plus-tap-equals-flow-tap.
+I wrote a [blog post about the creation of flow-tap](http://blog.jonnew.com/posts/flow-plus-tap-equals-flow-tap).
